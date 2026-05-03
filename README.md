@@ -1,7 +1,5 @@
 # AIML_Real-Estate-Investment-Advisor
 
-# Real Estate Investment Advisor
-
 A Machine Learning-powered real estate analysis application that helps investors identify profitable properties and forecast future property values.
 
 ## Project Objectives
